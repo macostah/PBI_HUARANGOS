@@ -1,4 +1,5 @@
 Se ha importado la BD Ventas al PBI, el cual se ha transformado por poder realizar su correcto analisis, para ello normalizamos en tablas.
+
 Tablas dimensionales: Cliente, Producto, Tipo, Ventas.
 Tabla transaccional: Ventas Detalle.
 Se creo la tabla Tiempo.
