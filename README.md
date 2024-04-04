@@ -1,4 +1,4 @@
-Se ha importado la BD Ventas al PBI, el cual se ha transformado por poder realizar su correcto analisis, para ello normalizamos en tablas.
+Se ha importado la BD Ventas al PBI, el cual se ha transformado por poder realizar su correcto analisis, se unió todas las ventas que estaban en diferentes paginas en una sola tabla, luego de ello normalizamos
 
 Tablas dimensionales: Cliente, Producto, Tipo, Ventas.
 
